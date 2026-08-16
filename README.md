@@ -208,7 +208,9 @@ Building the dashboard involved genuine iterative problem-solving, including:
 ## 👤 Author
 
 **Daksh Khandelwal**
-B.S. Applied AI & Data Science, IIT Jodhpur
+B.S. Applied AI & Data Science
+2nd Year
+IIT Jodhpur
 
 ---
 
